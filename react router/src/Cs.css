@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+
+h1{
+    color: firebrick;
+    font-size: larger;
+    font-style: italic;
+    border: 5px solid black;
+    text-transform: uppercase;
+}
+
+p{
+    color: gold;
+    border: 2px solid blue;
+
+}
+

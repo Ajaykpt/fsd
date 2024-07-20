@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+    text-decoration: none;
+}
+#heading{
+    text-align: center;
+    background-color: #6A5B6E;
+
+}
+#nav{
+    text-align: center;
+    background-color: #F0B7B3;
+    display: flex;
+    padding: 0px 0px 0px 0px;
+    /* padding-left: 50%; */
+    justify-content: center;
+    display: block;
+    
+}
+#tatt{
+    text-align: center;
+    padding: 10px 0px 10px ;
+    color: #F0B7B3;
+}
+.img{
+    height: 20%; width: 20%;
+    align-items: center;
+    padding: 10px 10px 90px 40%;
+}
+.pp{
+    
+    display: inline-block;
+    color:#6A5B6E;
+    justify-content: center;
+    text-align: center;
+    
+}
+#Contactus{
+    color:#6A5B6E; 
+    text-align: center;
+    
+
+}
