@@ -1,7 +1,7 @@
 function Cs(){
     return (
         <div>
-          <h1>This is ece  department </h1>
+          <h1>This is CSSSSS  department </h1>
     
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit natus

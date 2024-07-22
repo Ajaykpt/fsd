@@ -1,0 +1,9 @@
+.navall{
+    background-color: black;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    text-decoration: none;
+    gap: 5px ;
+
+}
