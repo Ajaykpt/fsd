@@ -16,7 +16,7 @@ const AddNewStudent = () => {
     };
 
     try {
-      const response = await axios.post('http://localhost:9090/api/student', newStudent);
+      const response = await axios.post('http://localhost:9090/student', newStudent);
       console.log('Response', response.data);
     } catch (error) {
       console.log("Error adding student:", error);
